@@ -1,5 +1,8 @@
 # psychological-conflict-handling-strategies
 **Data and Code for Publication**
+
+Annika Stampf, Mark Colley, Ann-Kathrin Knuth, Cagla Tasci, and Enrico Rukzio. 2024. 
+
 **Examining Psychological Conflict-Handling Strategies for Highly Automated Vehicles to Resolve Legal User-Vehicle Conflicts**
 
 Abstract: As vehicle automation progresses, with SAE levels 3 to 5 introducing varying degrees of control transfer from driver to vehicle, a key challenge emerges: aligning driver interests with the automated vehicle's (AV) operational goals. Despite technical feasibility, drivers' tendencies to intervene due to distrust in or dissatisfaction with AVs necessitate consideration of control mechanisms in future AV designs. This study investigates the potential of persuasion strategies inspired by Human-Robot Interaction research to harmonize driver actions with AV goals in legal conflict situations. We conducted a Virtual Reality driving simulator study with 36 participants, comparing 11 persuasive conflict-handling strategies and a baseline of no persuasion. Our research helps understand the effects of persuasion on users' compliance with law-abiding AV goals, trust, and acceptance towards the AV and evaluates the effectiveness of these strategies based on their working mechanism (cognitive, emotional, social, politeness) and valence (negative, neutral, positive).  Results show that none of the strategies could substantially increase compliance with the AV, but neutral and positive persuasion strategies did not decrease acceptance and trust towards the AV compared to no persuasion. These findings contribute to the discourse on cooperation design and control allocation in AVs, particularly in scenarios involving legal conflicts.
